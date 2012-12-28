@@ -1,0 +1,37 @@
+.option_wrapper{
+	width:740px;
+}
+
+#go_pro{
+	border:1px solid #ddd;
+	background:#d7d7d7;
+	color: #333;
+	padding: 10px;
+	margin-bottom: 35px;
+}
+
+.postbox .hndle {
+    cursor: auto;
+    font-size: 13px;
+    margin: 0;
+    padding: 6px 10px 7px;
+}
+.panel-wrap.inside {
+    padding: 0 10px 10px;
+}
+.panel-wrap.inside ul {
+    padding-top: 12px;
+}
+.panel-wrap.inside ul li {
+	font-size: 11px;
+    padding-bottom: 6px;
+}
+
+div.logo_tz a:link, div.logo_tz a:visited{
+	text-indent: -9999em;
+	background: url(../images/logo.png) no-repeat top right;
+	margin: 20px 0;
+	height: 50px;
+	width:166px;
+	display: block;
+}

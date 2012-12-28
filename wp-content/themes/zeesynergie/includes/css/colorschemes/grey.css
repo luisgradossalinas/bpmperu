@@ -1,0 +1,9 @@
+a, a:link, a:visited, .comment-reply-link, .post-title, .page-title, .post-title a:link, 
+.post-title a:visited, .arh, #comments h3, #respond h3, #sidebar a:link, #sidebar a:visited,
+#frontpage_pagination .slide_page h3, #frontpage_widgets a:link, #frontpage_widgets a:visited {
+	color: #777777;
+}
+#header, #footer, #slide_panel, .postcomments, #sidebar .widgettitle, #frontpage_widgets .widgettitle, 
+#frontpage_slider h2.slide_head {
+	background-color: #777777;
+}
