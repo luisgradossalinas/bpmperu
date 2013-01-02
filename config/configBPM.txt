@@ -1,0 +1,5 @@
+UPDATE wp_posts SET guid = REPLACE(guid,':8080','') 
+UPDATE wp_posts SET post_content = REPLACE(post_content,':8080','') 
+-- cambiar la configuracion en el archivo wp-config.php
+-- para los imagenes logo principal y slide, acceder como admin
+-- entrar y habilitar la url del logo quitar el puerto 8080
