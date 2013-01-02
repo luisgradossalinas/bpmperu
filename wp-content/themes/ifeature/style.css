@@ -76,7 +76,7 @@ header#cc-header {
 
 .container-full {
 	width: 100%;
-	background-image: url('images/topbarbg.jpg');
+	background-color: #216375;
 	margin-bottom: 15px;
 }
 
@@ -800,7 +800,7 @@ table#wp-calendar td {
 /********************************************************************************************************************/
 
 #footer-widgets-wrapper {
-	background-color: #303030;
+	background-color: #216375;
 }
 #footer-widgets {
   margin-bottom: 30px;
